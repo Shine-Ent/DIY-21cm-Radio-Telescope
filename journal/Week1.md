@@ -1,5 +1,3 @@
-# Project Journal: 21-cm Radio Telescope
-
 Date: Tuesday, April 7th
 Status: Starting the project
 
